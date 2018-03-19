@@ -1,0 +1,24 @@
+img {
+    width: 30%;
+    margin-top: 10px;
+}
+
+fieldset {
+    width: 70%;
+    margin: 20px auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+#info {
+    display: inline-block;
+    width: 50%;
+    margin-left: 15px;
+    vertical-align: top;
+}
+
+p {
+    vertical-align: top;
+}
